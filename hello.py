@@ -1,2 +1,1 @@
-print("Ayo Semangat")
-
+print("Hello Salsa")
